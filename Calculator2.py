@@ -1,4 +1,4 @@
-#Cerated: 5/22/2022
+#Created: 5/22/2022
 #Prompt: Create a calulator that accepts two numbers and adds them.The program should continue calculating entered 
 #inputs until the user enters 'AC' (all clear).
 
