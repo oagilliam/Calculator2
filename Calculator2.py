@@ -22,4 +22,3 @@ while True:
         n1 = int(num1)
         n2 = int(num2)
         print('Result:',n1 + n2)
-        
